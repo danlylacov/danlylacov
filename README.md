@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi, I'm Danil
 
-<!--
-**danlylacov/danlylacov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**  
+Student at **[SUAI](https://guap.ru/)** (Saint Petersburg University of Aerospace Instrumentation)  
+Major: **"Mathematical Support and Administration of Information Systems"** (since 2022)  
 
-Here are some ideas to get you started:
+💼 **Work Experience**  
+**DevOps Engineer at 1C** (since June 2024)  
+- Developing a **Monitoring Service for Internal Department Processes** on python
+- **CI/CD Pipeline Configuration** (GitLab CI/CD)  
+- **Process Automation** using **Bash scripts**  
+- **Docker** containerization and orchestration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Key Projects**  
+- **[VolumeHub](https://github.com/danlylacov/VolumeHub_tg_client)** - Telegram bot for traders 
+- **[GUAPP Bot](https://github.com/danlylacov/GUAPPBot)** - University admissions helper with FAQs and schedules  
+- **[Messager](https://github.com/danlylacov/Messager)** - End-to-end encrypted messaging app  
+
+🔧 **Tech Stack**  
+ `Python` `Django` `FastAPI` `SQL` `Redis` `Celery` `Docker` `Bash` `CI/CD` `Monitoring` `1C` `Git` `Linux` `Nginx` `JS`
+
+📫 **Contact Me**  
+- ✉️ **Email**: [danlylacov@yandex.ru](mailto:danlylacov@yandex.ru)  
+- 📱 **Telegram**: [@Danlylacov](https://t.me/Danlylacov)  
